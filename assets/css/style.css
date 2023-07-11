@@ -1,0 +1,47 @@
+body {
+    color: orange;
+    margin: 0px;
+}
+
+h1 {
+    color: gray;
+    font-size: 40px;
+}
+
+p{
+    background-color: red;
+    color: white;
+}
+
+.big {
+    font-size: 50px;
+}
+
+#education {
+    background-color: blue;
+    color: yellow;
+}
+
+.skills li{
+    color: green;
+}
+
+.border-box{
+    border: solid 1px black;
+    padding: 20px;
+    margin: 50px;
+}
+
+.skills-section{
+    background-color: antiquewhite;
+    color: blueviolet;
+}
+
+.skills-section:hover{
+    background-color: aquamarine;
+    color: black;
+}
+
+.perfil-image{
+    border-radius: 300px;
+}
